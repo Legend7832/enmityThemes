@@ -9,9 +9,9 @@ A repository for themes and plugins for Enmity Discord iOS
 
 ## Themes
 
-### Theme 1: Dark Mode
+### Theme 1: AnimeTheme
 
-![Dark Mode](images/dark_mode.png)
+![Anime Theme]([images/dark_mode.png](https://cdn.discordapp.com/attachments/1207873318561259550/1207873354036551770/IMG_0722.jpg?ex=65e13ab8&is=65cec5b8&hm=44b715b17d3ce5617329a98d124fb8371ab25ea0a2763ba739dcff1ec59b92a9&))
 
 Description: This theme provides a sleek and stylish dark mode interface for Enmity Discord iOS, perfect for users who prefer a darker aesthetic.
 
