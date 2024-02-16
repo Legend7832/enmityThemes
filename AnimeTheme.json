@@ -1,1 +1,159 @@
-
+{
+  "name": "AnimeTheme",
+  "version": "1.0",
+  "description": "Anime Theme for Discord",
+  "authors": [
+    {
+      "name": "Legend7832",
+      "id": "757530324686340197"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#FF0000",
+      "#000000"
+    ],
+    "HEADER_PRIMARY": [
+      "#FF0000",
+      "#000000"
+    ],
+    "HEADER_SECONDARY": [
+      "#FF0000",
+      "#000000"
+    ],
+    "TEXT_NORMAL": [
+      "#CCCCCC",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#666666",
+      "#000000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FF0000",
+      "#000000"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FF0000",
+      "#000000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF0000",
+      "#000000"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#747474",
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FF0000",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#FF0000",
+      "#000000"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#292929",
+      "#FF0000"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FF0000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#292929",
+      "#FF0000"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#FF0000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "transparent",
+      "#000000"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#FF0000",
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#FF0000",
+      "#000000"
+    ],
+    "CHANNEL_ICON": [
+      "#FF0000",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK_100": "#FF0000",
+    "PRIMARY_DARK_200": "#FF0000",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#C8C8C8",
+    "PRIMARY_DARK_500": "#0c0c0c",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#1f1f1f",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PRIMARY_DARK_900": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://cdn.discordapp.com/attachments/758968292689051668/1031542384544186398/IMG_2066.jpg",
+    "alpha": 0.6
+  }
+}
