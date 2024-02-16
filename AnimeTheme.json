@@ -28,7 +28,7 @@
     "BACKGROUND_NESTED_FLOATING": ["#000000", "#FFFFFF"],
     "BACKGROUND_MESSAGE_HOVER": ["#000000", "#FFFFFF"],
     "BACKGROUND_MODIFIER_HOVER": ["#000000", "#FFFFFF"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#000000"], // Changed to black for button icons
+    "BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#000000"],
     "BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
     "BACKGROUND_MODIFIER_ACCENT": ["#000000", "#FFFFFF"],
     "SCROLLBAR_THIN_THUMB": ["#292929", "#FF0000"],
@@ -38,7 +38,7 @@
     "CHANNELTEXTAREA_BACKGROUND": ["transparent", "#FFFFFF"],
     "CHANNELS_DEFAULT": ["#000000", "#FFFFFF"],
     "TEXT_LINK": ["#FF0000", "#000000"],
-    "CHANNEL_ICON": ["#FF0000", "#000000"] // Changed to neon red for button icons
+    "CHANNEL_ICON": ["#FF0000", "#000000"]
   },
   "colours": {
     "PRIMARY_DARK": "#000000",
@@ -59,7 +59,15 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/1207873318561259550/1207904380825899120/IMG_0723.jpg?ex=65e1579e&is=65cee29e&hm=dbfaa79eb454b75b426187cec5a5a1b572af69298e2b734dac4051e32eeeb36f&",
+    "url": "https://cdn.discordapp.com/attachments/1207873318561259550/1207873354036551770/IMG_0722.jpg?ex=65e13ab8&is=65cec5b8&hm=44b715b17d3ce5617329a98d124fb8371ab25ea0a2763ba739dcff1ec59b92a9&",
     "alpha": 0.6
+  },
+  "overrides": {
+    "UserPopout": {
+      "nameTag": "#FF0000"
+    },
+    "UserText": {
+      "username": "#FF0000"
+    }
   }
 }
